@@ -17,7 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/sameer hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sameer hussain" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/sameer-hussain-75313023b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sameer-hussain-75313023b" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100027402602287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100027402602287" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/ivy_sameer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ivy_sameer/" height="30" width="40" /></a>
