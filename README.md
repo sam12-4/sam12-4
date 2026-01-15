@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sam12-4&label=Profile%20views&color=0e75b6&style=flat" alt="sam12-4" /> </p>
 
 
-- 🔭 I’m currently working on [CLAIR (FYP), Chip design and verification projects and Some MERN Stack Projects, The following is the link to my final year project](https://github.com/sam12-4/CLAIR)
+- 🔭 I’m currently working on CLAIR (FYP), Chip design and verification projects and Some MERN Stack Projects, The following is the [link to my final year project](https://github.com/sam12-4/CLAIR)
 
 - 🌱 I’m currently learning **Integrated Circuit Design**
 
