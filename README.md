@@ -27,7 +27,5 @@
 <h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sam12-4"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sam12-4" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam12-4&show_icons=true&locale=en&layout=compact" alt="sam12-4" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sam12-4&show_icons=true&locale=en" alt="sam12-4" /></p>
 
