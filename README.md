@@ -4,7 +4,7 @@
 
 ### Full-Stack Engineer · Hardware & IC Design · IoT
 
-Building scalable web products and low-level hardware systems.
+Building production software for 🇨🇭 **Dinnova AG**.
 Open to **remote** and **relocation** opportunities in **Europe** and **North America**.
 
 <p>
@@ -30,14 +30,13 @@ Open to **remote** and **relocation** opportunities in **Europe** and **North Am
 
 ## About
 
-Software engineer at **Dinnova AG** with a dual focus on **full-stack web development** (MERN, Next.js) and **integrated circuit design & verification**. I enjoy the full spectrum — from RTL and SoC architecture up to production React apps and API design.
+Software engineer at **<a href="https://dinnova.ch" target="_blank" rel="noopener noreferrer">Dinnova AG</a>** 🇨🇭 (Switzerland), with a dual focus on **full-stack web development** (MERN, Next.js) and **integrated circuit design & verification**. I enjoy the full spectrum — from RTL and SoC architecture up to production React apps and API design.
 
+- 🇨🇭 Shipping production systems for a **Swiss-based** company — comfortable with European engineering standards, async collaboration, and CET working hours
 - 🏗️ Currently building **<a href="https://github.com/sam12-4/CLAIR" target="_blank" rel="noopener noreferrer">CLAIR</a>** — a chip design & verification toolkit (Final Year Project)
-- 💼 Engineer at **Dinnova AG**, shipping production e-commerce and internal tooling
 - 🎯 Specializing in **IC design**, **SoCs**, and **FPGA** development
-- 🌍 Based in Karachi 🇵🇰 · Available **UTC+5** with flexibility toward EU/US hours
+- 🌍 Based in Karachi 🇵🇰 · Fluent in async/remote workflows · Flexible across EU and US timezones
 
----
 
 ## What I Work On
 
