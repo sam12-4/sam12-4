@@ -132,10 +132,7 @@ Cleaning Artificially Intelligent Robot — an autonomous cleaning robot combini
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sam12-4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam12-4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages" />
-
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sam12-4&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sam12-4&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
